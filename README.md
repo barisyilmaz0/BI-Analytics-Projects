@@ -3,7 +3,7 @@ Portfolio of completed projects I worked on while attending the BI Analytics Tri
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 1 | [AirBnb Project](https://github.com/barisyilmaz0/BI-Analytics-Projects/tree/main/AirBnb%20Project) | DESCRIPTION HERE. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
