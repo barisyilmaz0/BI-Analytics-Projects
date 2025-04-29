@@ -1,1 +1,3 @@
+This project explores cuisine performance across cities by analyzing sales, diversity, and pricing data. Key insights reveal that North Indian salads consistently lead in average sales, indicating a strong customer preference for healthy yet familiar regional dishes. The analysis of cuisine distribution across cities shows that Afghan cuisine outperforms African cuisine in terms of presence and performance, highlighting its wider acceptance in urban markets. Additionally, a scatter plot of cuisine types versus average pricing shows that American and Mediterranean cuisines strike a favorable balance between cost and customer appeal, suggesting they are perceived as offering strong value across different price points.
+
 
